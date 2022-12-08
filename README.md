@@ -9,5 +9,7 @@ Spurious correlations is a connection between two variables that appears to be c
 Correlation means relationship and association to another variable. Causation means that one variable causes another to change, which means one variable is dependent on the other. It is also called cause and effect. 
 
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/45129483/206537270-d2c2e067-a6ad-4c11-9d11-2f929fd0bf20.png">
+![image](https://user-images.githubusercontent.com/45129483/206537879-ed476e64-2e6b-4a37-a179-5d3e09811c6a.png)
+
 
 <a href = 'https://sundaskhalid.medium.com/correlation-vs-causation-in-data-science-66b6cfa702f0'> Source </a>
